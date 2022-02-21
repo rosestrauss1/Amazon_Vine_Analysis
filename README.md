@@ -29,4 +29,4 @@ The percentage of Vine reviews that were 5 stars is 36%. The non-Vine reviews th
 
 
 ## Summary: 
-There is not a positivity bias because the Vine program had a smaller percentage of 5 star reviews, with 36% compared to the 47% non vine reiviews. An additional analysis I could preform with this dataset to support this statement would be 
+There is not a positivity bias because the Vine program had a smaller percentage of 5 star reviews, with 36% compared to the 47% non vine reiviews. An additional analysis I could preform with this dataset to support this statement would be including helpful and unhelpful reviews, so we could get a fuller picture of any bias toward favorable reviews.
